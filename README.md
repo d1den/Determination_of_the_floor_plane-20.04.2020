@@ -1,7 +1,7 @@
 # Determination_of_the_floor_plane-04.20.2020
 ## Нахождение плоскости пола по множеству точек
 **Данная программа представляет собой решение задания по предмету "Системы навигации автономных роботов"**  
-![task](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/task.JPG?raw=true "task") 
+![task](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/task.JPG?raw=true "task")  
 **Репозиторий включает в себя следующие папки и файлы:**  
 1. WinFormPlane01 - папка проекта Windows Forms (.Net Framework) на c# в Visual Studio;
 2. images - папка с изображениями, приложенными к данному описанию;
