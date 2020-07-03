@@ -17,6 +17,15 @@
   + Можно написать вручную;
   + Можно сохранить введённые данные в файл .txt.
 + Рассчёт плоскости пола, принадлежащей наибольшему числу точек;  
-+ Можно сохранить полученный ответ в файл .txt.  
-
-  
++ Можно сохранить полученный ответ в файл .txt;
++ При наличии каких-либо ошибок ввода выйдет соответсвующее уведомление об ошибке.  
+**Также для проверки правильности решения был написан скрипт matlab, который выполняет построение плоскости и точек.  
+Его возможности:**
++ Выбор через GUI интерфейс файла с точками плоскости;  
++ Выбор через GUI интерфейс файла с коэффициентами полученной плоскости;  
++ Построение графика.  
+**Скриншоты работы программы:**  
+1. ![test1](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/test1.JPG?raw=true "test1")  
+2. ![test2](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/test2.JPG?raw=true "test2")  
+3. ![test3](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/test3.JPG?raw=true "test3")  
+4. ![test4](https://github.com/d1den/Determination_of_the_floor_plane-20.04.2020/blob/master/images/test4.JPG?raw=true "test4")
