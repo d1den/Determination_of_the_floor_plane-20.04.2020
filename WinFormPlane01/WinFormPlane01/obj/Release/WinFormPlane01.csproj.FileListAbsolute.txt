@@ -1,0 +1,19 @@
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.exe.config
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.exe
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.pdb
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.csprojResolveAssemblyReference.cache
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.Form1.resources
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.Properties.Resources.resources
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.csproj.GenerateResource.Cache
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.exe
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.pdb
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.exe.config
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.exe
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\bin\Release\WinFormPlane01.pdb
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.csprojAssemblyReference.cache
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.Form1.resources
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.Properties.Resources.resources
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.csproj.GenerateResource.cache
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.csproj.CoreCompileInputs.cache
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.exe
+D:\Моё портфолио\Определение плоскости пола (20.04.2020)\WinFormPlane01\WinFormPlane01\obj\Release\WinFormPlane01.pdb

@@ -1,0 +1,9 @@
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Debug\WinFormPlane01.exe.config
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Debug\WinFormPlane01.exe
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\bin\Debug\WinFormPlane01.pdb
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.csprojResolveAssemblyReference.cache
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.Form1.resources
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.Properties.Resources.resources
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.csproj.GenerateResource.Cache
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.exe
+D:\Дима\Учёба\3 курс\2 семестр\Снар\Дз4\WinFormPlane01\WinFormPlane01\obj\Debug\WinFormPlane01.pdb
